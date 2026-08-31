@@ -194,7 +194,7 @@ norn_brains/
 ├── Sparkle_brain.json       # memory, needs, grid, counters, associations
 ├── Sparkle_grid.json        # MLWastesSwarm's map state
 ├── Sparkle_status.json      # current status for external readers
-├── Sparkle_command.txt     # one-shot command input
+├── Sparkle_command.txt      # one-shot command input
 └── Sparkle_response.txt    # response to the last command
 ```
 
